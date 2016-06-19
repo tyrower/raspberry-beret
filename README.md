@@ -1,7 +1,7 @@
 # Raspberry Beret 
 ## A wearable tech homage to Prince
 
-#### Adding Piezo sounds, Neopixel lights and a Camera Module to a Hat with a Raspberry Pi Zero for connected headware and a wearable-tech homage to the late, great Artist formerly known as Prince
+#### Adding Piezo sound, Neopixel light and Camera Module vision to a Hat with a Raspberry Pi Zero - for connected headware and a homage to the late, great Artist "formerly known as" Prince
 
 Coming soon to a MagPi near us...
 
