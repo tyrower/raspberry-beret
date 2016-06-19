@@ -6,4 +6,4 @@ Coming soon to a MagPi near us...
 
 ![Raspberry Beret](/img/2dba06df53681f693027022ea14a8c25.jpg "Raspberry Beret")
 
-![The Love Symbol](/img/Prince_logo.svg "The Artist formerly known as Prince")
+![The Love Symbol](/img/123px-Prince_logo.svg.png "The Artist formerly known as Prince")
